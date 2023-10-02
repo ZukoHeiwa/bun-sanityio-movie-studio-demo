@@ -50,7 +50,7 @@ sanity init
 - After that you can choose to create a studio schema project Your project name: (My Sanity Project) 
 - Use the default dataset configuration? (Y/n) ```Y```
 - Project output path: /home/zukoheiwa/Workspace/Sanity Io/my-sanity-project "Just click Enter"
-- Now you have 3 demo studio schemas by Sanity io 1. Movie project (schema + sample data), 2. E-commerce (Shopify), 3. Blog (Schema), or You can choose Clean project with no prefined schemas, for this project you will choose the 1st one 1. Movie project (schema + sample data).
+- Now you have 3 demo studio schemas by Sanity io 1. Movie project (schema + sample data), 2. E-commerce (Shopify), 3. Blog (Schema), or You can choose Clean project with no prefined schemas, for this project you will choose the 2nd one 2. E-commerce (Shopify).
 - Do you want to use TypeScript? (Y/n) ```n```
 - Package manager to use for installing dependencies? "Choose manual"
 
@@ -77,7 +77,7 @@ Usage
 Once the app is running, open your web browser and access bun-sanityio-movie-studio-demo at http://localhost:3333. Here's how you can use it:
 
 - Open your prefered browser and open this http://localhost:3333
-- You can see the simple  Movie project (schema + sample data) Demo
+- You can see the simple E-commerce (Shopify) Demo
 
 # Features
 - 0/500k API CDN Requests.
